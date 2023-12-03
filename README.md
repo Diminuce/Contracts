@@ -36,4 +36,4 @@
 ## Projects
 
 - [**graph_coloring**](graph_coloring)
-- [vehicle routing problem](): **Coming soon**
+- [**vehicle routing problem**](): **Coming soon**
